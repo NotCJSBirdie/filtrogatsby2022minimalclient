@@ -54,3 +54,4 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
 "# filtrogatsby2022client" 
 "# filtrogatsby2022minimalclient" 
+"# filtrogatsby2022minimalclient" 
