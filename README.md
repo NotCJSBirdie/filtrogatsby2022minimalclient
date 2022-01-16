@@ -55,3 +55,4 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 "# filtrogatsby2022client" 
 "# filtrogatsby2022minimalclient" 
 "# filtrogatsby2022minimalclient" 
+"# filtrogatsby2022minimalclient" 
